@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose Kotlin Example</string>
+    <string name="img_description">Example Profile</string>
+    <string name="text_message_test">Hello my friend!</string>
+</resources>
